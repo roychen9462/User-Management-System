@@ -10,7 +10,7 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
-  "name": "nodejs",
+  "name": "user_management_system",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
