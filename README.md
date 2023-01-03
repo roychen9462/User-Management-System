@@ -1,5 +1,26 @@
 # User-Management-System
-A web application for user information management using Node.js, express, express-handlebars & NoSQL database.
+A web application for user information management using Node.js, express, express-handlebars & NoSQL database. This is a project based on Raddy's toturial [[link]].
+
+[link]: https://raddy.dev
+
+# Usage
+1. Initialize new project
+```
+npm init
+```
+
+2. Install all needed packages
+```
+npm install express dotenv express-handlebars body-parser mysql2
+```
+
+3. Run the app
+```
+node app.js
+```
+After seeing `Listening on port 8080` on your console, the server is running correctlly.
+
+4. Open your browser and search `localhost:8080`.
 
 # Overview
 ### Home Page
